@@ -1,0 +1,17 @@
+mes,vendedor,unidade,vendas,meta,atingimento_pct,posicao,vendas_unidade
+2026-10-01,Vendedor 05,Unidade Norte,24,18,133.3,1,76
+2026-10-01,Vendedor 07,Unidade Norte,22,18,122.2,2,76
+2026-10-01,Vendedor 15,Unidade Leste,22,18,122.2,3,61
+2026-10-01,Vendedor 06,Unidade Norte,19,18,105.6,4,76
+2026-10-01,Vendedor 01,Unidade Centro,18,18,100.0,5,55
+2026-10-01,Vendedor 12,Unidade Sul,17,18,94.4,6,53
+2026-10-01,Vendedor 03,Unidade Centro,16,18,88.9,7,55
+2026-10-01,Vendedor 16,Unidade Leste,16,18,88.9,8,61
+2026-10-01,Vendedor 11,Unidade Sul,13,18,72.2,9,53
+2026-10-01,Vendedor 14,Unidade Leste,13,18,72.2,10,61
+2026-10-01,Vendedor 09,Unidade Sul,12,18,66.7,11,53
+2026-10-01,Vendedor 04,Unidade Centro,11,18,61.1,12,55
+2026-10-01,Vendedor 08,Unidade Norte,11,18,61.1,13,76
+2026-10-01,Vendedor 10,Unidade Sul,11,18,61.1,14,53
+2026-10-01,Vendedor 02,Unidade Centro,10,18,55.6,15,55
+2026-10-01,Vendedor 13,Unidade Leste,10,18,55.6,16,61
